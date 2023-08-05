@@ -13,7 +13,7 @@ int main() {
         return 0;
     }
 
-    std::cout << "No instance found, running program" << std::endl;
+    std::cout << "Running program" << std::endl;
 
     for (int i = 0; i <= 15; i++) { // program simulation
         Sleep(1000);
